@@ -42,6 +42,7 @@ Welkom, dit is mijn persoonlijke handleiding! Je vindt hier meer informatie over
 
 ## Overig
 ### Wat kun je van mij als manager verwachten?
+* 
 
 ### Wat verwacht ik als manager van jou?
 
