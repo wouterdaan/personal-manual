@@ -4,19 +4,13 @@ Welkom, dit is mijn persoonlijke handleiding! Je vindt hier meer informatie over
 
 ## Over mij
 
-## Hoe communiceer je het beste contact met mij
-* Ik raak sneller overtuigd door feiten dan meningen
-* Ik bekijk graag beide kanten van een verhaal (voor- en nadelen). Als je zelf ook laat zien over beiden nagedacht te hebben ga ik sneller met je mee.
-* Hoe bereik je me het beste:
-** Vragen: via Teams of WhatsApp, zodat ik tussendoor snel antwoord kan geven
-** Sparren over iets: liefst face to face of videobellen
-** E-mail alleen als het niet anders kan
-
 ## Mijn werkstijl
-* Ik focus op de inhoud, minder op gevoelens of emoties
-* Ik begrijp graag de bredere context van een probleem, en vraag daar op door. Pas als ik die begrijp weet ik hoe ik het beste kan helpen
-* Vaak bekijk ik een situatie eerst van een afstandje voor ik me er in meng
-* Ik zie vaak eerst de lange-termijn visie voor me en ga dan terug redeneren naar het hier en nu
+Ik ben op mijn productiefst in de ochtend, en probeer de bulk van mijn denkwerk dan te plannen. Het liefst heb ik 's ochtends daarom ook zo min mogelijk meetings, tenzij het echt niet anders kan. Ik ben een optimist en denk graag in mogelijkheden. Daarnaast vorm ik in mijn hoofd altijd een plaatje van het grotere geheel, om te begrijpen waar we het over hebben. Ik begrijp graag de bredere context van een probleem, en vraag daar op door. Pas als ik die begrijp weet ik hoe ik het beste kan helpen.
+
+Ik zie meestal eerst de lange-termijn visie voor me, en ga dan terug redeneren naar het hier en nu en wat we vandaag al kunnen doen. Ik focus me liever op inhoud en feiten dan emoties. Ik bekijk graag beide kanten van een verhaal (voor- en nadelen). Als je zelf ook laat zien over beiden nagedacht te hebben ga ik sneller met je mee.
+
+## Hoe communiceer je het beste contact met mij
+Ik heb een haat/liefde verhouding met email. Gebruik dat als laatste middel om met mij te communiceren. Mijn voorkeur heeft Teams, zeker omdat ik daar makkelijk tussendoor kan reageren. Via WhatsApp kun je me met dringende zaken bereiken, ook als ik in een meeting zit. Om echt te sparren of brainstormen over iets praat ik het liefst face-to-face of via videobellen.
 
 ## Wat motiveert mij
 * Samenwerken met anderen
