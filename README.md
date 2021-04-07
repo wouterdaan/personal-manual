@@ -9,7 +9,7 @@ Ik ben op mijn productiefst in de ochtend, en probeer de bulk van mijn denkwerk 
 
 Ik zie meestal eerst de lange-termijn visie voor me, en ga dan terug redeneren naar het hier en nu en wat we vandaag al kunnen doen. Ik focus me liever op inhoud en feiten dan emoties. Ik bekijk graag beide kanten van een verhaal (voor- en nadelen). Als je zelf ook laat zien over beiden nagedacht te hebben ga ik sneller met je mee.
 
-## Hoe communiceer je het beste contact met mij
+## Hoe bereik je mij het beste
 Ik heb een haat/liefde verhouding met email. Gebruik dat als laatste middel om met mij te communiceren. Mijn voorkeur heeft Teams, zeker omdat ik daar makkelijk tussendoor kan reageren. Via WhatsApp kun je me met dringende zaken bereiken, ook als ik in een meeting zit. Om echt te sparren of brainstormen over iets praat ik het liefst face-to-face of via videobellen.
 
 ## Wat motiveert mij
@@ -50,3 +50,5 @@ Het liefst hanteer ik een Trello bord met daarop agendapunten, en lopende actiep
 
 ### Hoe interpreteer je mijn agenda?
 Mijn agenda zit bijna altijd goed vol. Ik heb hem wel standaard open staan, waardoor je de titels van mijn afspraken kan zien. Tijdsblokken die ik voor mezelf heb gereserveerd zijn soms flexibel, maar plan er niet zomaar iets overheen. Daarnaast probeer ik tussen 12:00 en 13:00 geen afspraken te plannen omdat ik graag ergens in dat uur een keer tijd neem om te lunchen.
+
+Als je tijd met me wilt plannen: stuur me een concreet voorstel via een Teams bericht, of stuur alvast een uitnodiging als je ziet dat er ruimte is. Vraag me niet "wanneer heb je tijd".
