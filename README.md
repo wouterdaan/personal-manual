@@ -1,64 +1,53 @@
-# Personal User Manual Template
+# Persoonlijke handleiding Wouter
 
 Welkom, dit is mijn persoonlijke handleiding! Je vindt hier meer informatie over mij als persoon en als collega. Wat mij drijft, wat mijn stijl van werken is, en meer.
 
-
 ## Over mij
 
-
-<details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
-</details>
-
-## Hoe kun je het beste contact met mij opnemen
-
-
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
+## Hoe communiceer je het beste contact met mij
+* Ik raak sneller overtuigd door feiten dan meningen
+* Ik bekijk graag beide kanten van een verhaal (voor- en nadelen). Als je zelf ook laat zien over beiden nagedacht te hebben ga ik sneller met je mee.
+* Hoe bereik je me het beste:
+** Vragen: via Teams of WhatsApp, zodat ik tussendoor snel antwoord kan geven
+** Sparren over iets: liefst face to face of videobellen
+** E-mail alleen als het niet anders kan
 
 ## Mijn werkstijl
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
-</details>
+* Ik focus op de inhoud, minder op gevoelens of emoties
+* Ik begrijp graag de bredere context van een probleem, en vraag daar op door. Pas als ik die begrijp weet ik hoe ik het beste kan helpen
+* Vaak bekijk ik een situatie eerst van een afstandje voor ik me er in meng
+* Ik zie vaak eerst de lange-termijn visie voor me en ga dan terug redeneren naar het hier en nu
 
 ## Wat motiveert mij
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
+* Samenwerken met anderen
+* Tijd hebben om mijn eigen mening over iets te vormen
+* Buiten gebaande paden kunnen zoeken naar creatieve oplossingen
+* Nieuwsgierig kunnen zijn
+* Persoonlijke vrijheid; ik houd er niet van om binnen strakke processen te moeten opereren
 
 ## Wat demotiveert mij
+* Politiek
+* Collega’s die hiërarchisch ingesteld zijn
+* Problemen over de schutting werpen, in plaats van ze samen op te lossen
+* Collega’s die eerst anderen gaan vragen naar een oplossing voordat ze zelf nadenken
 
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
+## Hoe kun je me helpen
+* Niet direct een antwoord verwachten als je me een nieuw idee presenteert en daar feedback op wilt hebben. Ik heb wat verwerkingstijd nodig vaak.
+* Als je merkt dat ik een hard standpunt inneem of me harder opstel zit ik in mijn weerstand. Het helpt dan om even te stoppen om mij de kans te geven mijn gedachtes te formuleren.
+* Breng structuur aan. Zowel in dingen die je me verteld (duidelijke verhaallijn met begin, midden en eind) als werkzaamheden die je doet.
 
 ## Wat anderen verkeerd kunnen interpreteren bij mij
+* Als ik een meeting stil ben betekent het niet dat ik het onderwerp niet interessant vindt. Meestal heb ik dan gewoon wat tijd nodig om mijn gedachten en mening te vormen.
+* Mijn emoties zijn niet altijd af te lezen en ik spreek ze ook niet vaak uit, maar ik heb ze wel. In lichaamstaal uit ik mijn gevoelens meer.
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
+## Overig
+### Wat kun je van mij als manager verwachten?
 
-## Other
+### Wat verwacht ik als manager van jou?
 
 
-<details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
+### Hoe voer ik graag 1-op-1 gesprekken
+Het liefst hanteer ik een Trello bord met daarop agendapunten, en lopende actiepunten. Dit maakt het voor ons beiden makkelijk om gedurende de week vragen of topics daarop te zetten om later te bespreken.
 
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
+### Hoe interpreteer je mijn agenda?
+Mijn agenda zit bijna altijd goed vol. Ik heb hem wel standaard open staan, waardoor je de titels van mijn afspraken kan zien.
