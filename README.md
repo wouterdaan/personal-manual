@@ -5,6 +5,8 @@ Welkom, dit is mijn persoonlijke handleiding! Je vindt hier meer informatie over
 ## Over mij
 Ik ben een introvert van nature, maar kan ook zeker extravert gedrag vertonen. Als mens ben ik heel nieuwsgierig en open-minded. Ik heb een toekomstvisie en werk daar graag naartoe. Hoewel ik soms stellig kan zijn in mijn mening verkondigen luister ik graag naar andere standpunten, en heb ik geen moeite om mijn mening aan te passen. Ik werk graag samen met een team gemotiveerde mensen.
 
+In mijn vrije tijd trek ik graag samen met mijn vriendin de natuur in. Ik maak graag lange wandelingen en fietstochten. Daarnaast fotografeer en schrijf ik graag, daar kan ik mijn creativiteit in kwijt.
+
 ## Mijn werkstijl
 Ik ben op mijn productiefst in de ochtend, en probeer de bulk van mijn denkwerk dan te plannen. Het liefst heb ik 's ochtends daarom ook zo min mogelijk meetings, tenzij het echt niet anders kan. Ik ben een optimist en denk graag in mogelijkheden. Daarnaast vorm ik in mijn hoofd altijd een plaatje van het grotere geheel, om te begrijpen waar we het over hebben. Ik begrijp graag de bredere context van een probleem, en vraag daar op door. Pas als ik die begrijp weet ik hoe ik het beste kan helpen.
 
