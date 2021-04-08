@@ -3,6 +3,7 @@
 Welkom, dit is mijn persoonlijke handleiding! Je vindt hier meer informatie over mij als persoon en als collega. Wat mij drijft, wat mijn stijl van werken is, en meer.
 
 ## Over mij
+Ik ben een introvert van nature, maar kan ook zeker extravert gedrag vertonen. Als mens ben ik heel nieuwsgierig en open-minded. Ik heb een toekomstvisie en werk daar graag naartoe. Hoewel ik soms stellig kan zijn in mijn mening verkondigen luister ik graag naar andere standpunten, en heb ik geen moeite om mijn mening aan te passen. Ik werk graag samen met een team gemotiveerde mensen.
 
 ## Mijn werkstijl
 Ik ben op mijn productiefst in de ochtend, en probeer de bulk van mijn denkwerk dan te plannen. Het liefst heb ik 's ochtends daarom ook zo min mogelijk meetings, tenzij het echt niet anders kan. Ik ben een optimist en denk graag in mogelijkheden. Daarnaast vorm ik in mijn hoofd altijd een plaatje van het grotere geheel, om te begrijpen waar we het over hebben. Ik begrijp graag de bredere context van een probleem, en vraag daar op door. Pas als ik die begrijp weet ik hoe ik het beste kan helpen.
@@ -23,7 +24,7 @@ Ik heb een haat/liefde verhouding met email. Gebruik dat als laatste middel om m
 * Politieke spelletjes
 * Collega’s die hiërarchisch ingesteld zijn
 * Problemen over de schutting werpen, in plaats van ze samen op te lossen
-* Collega’s die eerst anderen gaan vragen naar een oplossing voordat ze zelf nadenken
+* Passiviteit bij anderen
 
 ## Hoe kun je me helpen
 * Ik ben goed in structuur aanbrengen, maar niet structuur aanhouden. Je kan me helpen door een afgesproken structuur te handhaven, ook naar mij.
@@ -44,6 +45,7 @@ Ik heb een haat/liefde verhouding met email. Gebruik dat als laatste middel om m
 * Dat je opbouwend kritisch kunt zijn. Op jezelf, op mij, en op processen.
 * Dat je tijdig om hulp vraagt als je die nodig hebt. Als je aan ziet komen dat iets niet goed gaat: trek meteen aan de bel. Laat de bom niet eerst barsten.
 * Dat je je eerlijke mening geeft, ook als je het ergens niet mee eens bent. "Ja" zeggen maar "Nee" doen heb ik een broertje dood aan.
+* Als we afspraken maken in een gesprek dat je die zelf noteert en opvolgt.
 
 ### Hoe voer ik graag 1-op-1 gesprekken
 Het liefst hanteer ik een Trello bord met daarop agendapunten, en lopende actiepunten. Dit maakt het voor ons beiden makkelijk om gedurende de week vragen of topics daarop te zetten om later te bespreken. In 1-op-1 gesprekken kunnen we het over van alles hebben. Het is voor mij geen status update meeting, maar juist een moment om los van het dagelijkse werk even in te checken bij elkaar.
