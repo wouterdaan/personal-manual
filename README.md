@@ -36,7 +36,7 @@ Ik heb een haat/liefde verhouding met email. Gebruik dat als laatste middel om m
 
 ## Wat anderen verkeerd kunnen interpreteren bij mij
 * Als ik een meeting stil ben betekent het niet dat ik het onderwerp niet interessant vindt. Meestal heb ik dan gewoon wat tijd nodig om mijn gedachten en mening te vormen.
-* Mijn emoties zijn niet altijd af te lezen en ik spreek ze ook niet vaak uit, maar ik heb ze wel. In lichaamstaal uit ik mijn gevoelens meer.
+* Mijn emoties zijn niet altijd aan de buitenkant af te lezen en ik spreek ze ook niet altijd uit, maar ik heb ze wel. In lichaamstaal uit ik mijn gevoelens subtieler. Als je me niet goed kunt peilen mag je het altijd vragen.
 
 ## Overig
 ### Wat kun je van mij als manager verwachten?
